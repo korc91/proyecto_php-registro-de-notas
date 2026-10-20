@@ -1,4 +1,4 @@
-<?php declare(strict_types=1);
+<?php declare(strict_types=1); ?>
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -14,5 +14,6 @@
         <p>Calcula el promedio de tus estudiantes · Nota mínima para aprobar: <?= NOTA_MINIMA ?></p>
     </div>
 </header>
-<main class="contenedor">
-?>
+<main class="contenedor"> </main>
+</body>
+    
