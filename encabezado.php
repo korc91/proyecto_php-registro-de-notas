@@ -1,4 +1,4 @@
-<?php declare(strict_types=1); ?>
+<?php declare(strict_types=1);
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -15,3 +15,4 @@
     </div>
 </header>
 <main class="contenedor">
+?>
